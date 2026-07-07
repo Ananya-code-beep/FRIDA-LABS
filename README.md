@@ -1,1 +1,2 @@
 # FRIDA-LABS
+This repository contains my completed Frida Labs, showcasing dynamic analysis techniques for Android applications. The labs cover Java method hooking, runtime value modification, root detection bypass, SSL pinning bypass, and reverse engineering using Frida, ADB, and JavaScript. These exercises helped strengthen my practical skills in mobile application security testing and dynamic instrumentation.
